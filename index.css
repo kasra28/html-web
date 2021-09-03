@@ -1,0 +1,35 @@
+*{
+  background-color:black;
+  padding:1px;
+  color:white;
+}
+.head{
+  color:white;
+  text-align:center;
+  border:2px solid red;
+  padding:10px;
+  letter-spacing:0.2em;
+  word-spacing:1em;
+}
+.text{
+  padding:0 30px;
+  margin:0;
+  color:white;
+  font-style:italic;
+}
+a{
+  text-decoration:none;
+  color:#191970;
+}
+a:hover{
+  color:green;
+}
+a:active{
+  color:red;
+}
+.body-is-body{
+  font-style:padding oblique;
+  font-size:17px;
+  padding-left:30px;
+  color:white;
+}
